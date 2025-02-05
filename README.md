@@ -3,6 +3,16 @@
 
 ![alt text](images/Dash_full.png)
 
+### Fotos Adicionais
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/tooltip_img.png" alt="Imagem 1" style="width: 48%;"/>
+  <img src="images/tooltip_orders.png" alt="Imagem 2" style="width: 48%;"/>
+</div>
+
+### Link do Dashboard: [Northwind traders](https://app.powerbi.com/view?r=eyJrIjoiM2Y4NWJmMTItZjYwNy00N2FhLTljMzYtMjYzY2E0MGZkYzJhIiwidCI6IjkxZmE3NDMzLWJkZmUtNDAxYS04NmY3LWYwZDI0OGNlMDgyNiJ9&pageName=7d007a0ad723ac2a2136)
+
 ## Objetivo
 
 O objetivo principal deste dashboard é fornecer aos nossos executivos insights rápidos e acessíveis sobre o desempenho da empresa nas principais áreas de negócios. Especificamente, precisamos de um dashboard que acompanhe e visualize as seguintes métricas:
